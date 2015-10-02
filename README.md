@@ -1,4 +1,4 @@
-# **Rafael Nascimento - Visual Computing Class 2015/2 UNIT**
+# **Rafael Nascimento - Visual Computing Class**
 
 ## About 
 This is a git repository made only for studying purposes. 
